@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-community
+unstructured
+tiktoken
+pinecone-client
+pypdf2
+openai
+pandas
+numpy
+python-dotenv
