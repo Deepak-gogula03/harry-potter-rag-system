@@ -199,7 +199,7 @@ The project successfully indexed the complete knowledge base into Pinecone.
 Clone the repository:
 
 ```bash
-git clone https://github.com/Deepak-gogula03/harry-potter-rag-system
+git clone https://github.com/Deepak-gogula03/harry-potter-rag-system.git
 ```
 
 Move into the project directory:
