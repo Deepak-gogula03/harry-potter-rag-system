@@ -1,6 +1,6 @@
 # 📚 Harry Potter Knowledge Assistant using OpenAI, Pinecone & Retrieval-Augmented Generation (RAG)
 
-## Overview
+🚀 Overview
 
 This project implements an end-to-end Retrieval-Augmented Generation (RAG) pipeline capable of answering natural language questions from a large-scale document collection.
 
