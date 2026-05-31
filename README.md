@@ -27,13 +27,13 @@ Organizations generate and store large volumes of unstructured information, maki
 This project demonstrates how Retrieval-Augmented Generation (RAG) can transform static document repositories into intelligent knowledge systems capable of providing instant, context-aware answers.
 
 Potential Real-World Applications
-🏢 Enterprise Knowledge Bases
-📚 Internal Documentation Search
-🎧 Customer Support Assistants
-⚖️ Legal Document Analysis
-📑 Research Paper Assistants
-🎓 Educational Knowledge Platforms
-🏥 Healthcare & Financial Document Search Systems
+🏢 Enterprise Knowledge Bases.
+📚 Internal Documentation Search.
+🎧 Customer Support Assistants.
+⚖️ Legal Document Analysis.
+📑 Research Paper Assistants.
+🎓 Educational Knowledge Platforms.
+🏥 Healthcare & Financial Document Search Systems.
 
 ---
 
