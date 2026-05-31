@@ -239,7 +239,6 @@ harry-potter-rag-system/
 │   └── HarryPotterBooks.pdf
 │
 ├── screenshots/
-│   ├── architecture.png
 │   ├── pinecone_index_overview.png
 │   ├── vector_statistics.png
 │   └── query_result.png
